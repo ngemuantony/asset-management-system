@@ -1,0 +1,1504 @@
+Watching for file changes with StatReloader
+Forbidden: /api/users/users/
+Forbidden: /api/users/users/
+Forbidden: /api/users/users/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\wsgi.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /api/swagger
+Not Found: /api/swagger/
+Not Found: /
+Bad Request: /api/auth/password/reset/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\models.py changed, reloading.
+Watching for file changes with StatReloader
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's DepartmentViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\views.py", line 23, in get_queryset
+    if user.profile.role == 'ADMIN':
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Unauthorized: /api/departments/
+Bad Request: /api/auth/password/change/
+Bad Request: /api/auth/password/reset/
+Unauthorized: /api/auth/profile/
+Bad Request: /api/auth/login/
+Unauthorized: /api/auth/logout/
+Bad Request: /api/auth/register/
+Bad Request: /api/auth/register/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\core\utils.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\departments\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\core\cache_utils.py changed, reloading.
+Internal Server Error: /api/auth/login/
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py", line 127, in post
+    if not serializer.is_valid():
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 223, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 442, in run_validation
+    value = self.to_internal_value(data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 495, in to_internal_value
+    for field in fields:
+                 ^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 378, in _writable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\serializers.py", line 1054, in get_fields
+    assert hasattr(self, 'Meta'), (
+           ^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Class LoginSerializer missing "Meta" attribute
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\users\netcore\assets\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py", line 157, in post
+    except AuthenticationError as e:
+           ^^^^^^^^^^^^^^^^^^^
+NameError: name 'AuthenticationError' is not defined. Did you mean: 'IndentationError'?
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/auth/login/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: praccabravo
+Unauthorized: /api/users/users/
+Bad Request: /api/auth/register/
+Bad Request: /api/auth/password/reset/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Email sending failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aa50b52f93bsm294382766b.112 - gsmtp')
+Bad Request: /api/auth/password/reset/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Email sending failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-5d01d3c0044sm2655496a12.48 - gsmtp')
+Bad Request: /api/auth/password/reset/
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\config\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Password reset email sent successfully to ngemuantony@gmail.com
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Password reset email sent successfully to ngemuantony@gmail.com
+Template rendering error: Empty variable tag on line 35
+Bad Request: /api/auth/password/reset/
+Password reset email sent successfully to ngemuantony@gmail.com
+Password reset email sent successfully to ngemuantony@gmail.com
+C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "C:\users\netcore\assets\Lib\site-packages\drf_yasg\inspectors\base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "C:\Users\netcore\Desktop\SWAHILIPOT-ENGINEERING\sph-asset-management-backend\apps\users\views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Not Found: /assets/assets
+Unauthorized: /api/assets/assets/
+Unauthorized: /api/assets/assets/
+Unauthorized: /api/assets/assets/
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Internal Server Error: /api/auth/register/
+Bad Request: /api/auth/register/
+Internal Server Error: /api/auth/register/
+Bad Request: /api/auth/register/
+Bad Request: /api/auth/register/
+Bad Request: /api/auth/logout/
+Bad Request: /api/auth/logout/
+Unauthorized: /api/assets/
+Auth Metrics: {'active_sessions': 2, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Bad Request: /api/assets/
+Bad Request: /api/assets/
+/home/cyber-security/Downloads/sph-asset-management-backend/apps/reports/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Downloads/sph-asset-management-backend/apps/categories/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/cyber-security/Downloads/sph-asset-management-backend/apps/assets/models.py changed, reloading.
+Watching for file changes with StatReloader
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Unauthorized: /api/assets/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Unauthorized: /api/assets/
+Unauthorized: /api/assets/
+Bad Request: /api/assets/
+/home/cyber-security/Downloads/sph-asset-management-backend/apps/reports/models.py changed, reloading.
+Watching for file changes with StatReloader
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's UserViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/sph_asset/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Downloads/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Watching for file changes with StatReloader
+Unauthorized: /api/users/users/
+Not Found: /api/users/profiless/
+Unauthorized: /api/users/profiles/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Unauthorized: /api/users/profiles/
+Unauthorized: /api/users/profiles/
+Forbidden: /api/users/users/
+Forbidden: /api/users/users/
+Forbidden: /api/users/users/
+Forbidden: /api/users/users/
+Internal Server Error: /api/users/profiles/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: users_userprofile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/serializers.py", line 208, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/models.py", line 68, in save
+    super().save(*args, **kwargs)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/base.py", line 891, in save
+    self.save_base(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/base.py", line 997, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/base.py", line 1160, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/base.py", line 1201, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: users_userprofile.user_id
+Method Not Allowed: /api/users/profiles/2/
+Method Not Allowed: /api/users/users/
+Internal Server Error: /api/users/users/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+                                         ^^^^^^^^^^
+NameError: name 'ROLE_ADMIN' is not defined
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/users/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py", line 23, in get_queryset
+    if self.request.user.profile.role != ROLE_ADMIN:
+                                         ^^^^^^^^^^
+NameError: name 'ROLE_ADMIN' is not defined
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/core/constants.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/reports/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/reports/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/reports/migrations/0001_initial.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/reports/models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/reports/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+Watching for file changes with StatReloader
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+view's AssetRequestViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/requests/views.py", line 37, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+Watching for file changes with StatReloader
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+view's TagViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py", line 22, in get_queryset
+    queryset = Tag.objects.annotate(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1194, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 1073, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 895, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 2010, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1863, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'asset_set' into field. Choices are: asset, code, color, created_at, deactivated_at, deactivated_by, deactivated_by_id, deleted_at, description, id, is_active, last_modified_by, last_modified_by_id, name, notes, status, updated_at, version
+view's TagViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py", line 22, in get_queryset
+    queryset = Tag.objects.annotate(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1194, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 1073, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 895, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 2010, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1863, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'asset_set' into field. Choices are: asset, code, color, created_at, deactivated_at, deactivated_by, deactivated_by_id, deleted_at, description, id, is_active, last_modified_by, last_modified_by_id, name, notes, status, updated_at, version
+view's TagViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py", line 22, in get_queryset
+    queryset = Tag.objects.annotate(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1194, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 1073, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 895, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 2010, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1863, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'asset_set' into field. Choices are: asset, code, color, created_at, deactivated_at, deactivated_by, deactivated_by_id, deleted_at, description, id, is_active, last_modified_by, last_modified_by_id, name, notes, status, updated_at, version
+view's TagViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py", line 22, in get_queryset
+    queryset = Tag.objects.annotate(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1194, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 1073, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 895, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 2010, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1863, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'asset_set' into field. Choices are: asset, code, color, created_at, deactivated_at, deactivated_by, deactivated_by_id, deleted_at, description, id, is_active, last_modified_by, last_modified_by_id, name, notes, status, updated_at, version
+view's TagViewSet raised exception during schema generation; use `getattr(self, 'swagger_fake_view', False)` to detect and short-circuit this
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 42, in call_view_method
+    return view_method()
+           ^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py", line 22, in get_queryset
+    queryset = Tag.objects.annotate(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1194, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 1073, in resolve_expression
+    c.source_expressions[pos] = arg.resolve_expression(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/expressions.py", line 895, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 2010, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1863, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'asset_set' into field. Choices are: asset, code, color, created_at, deactivated_at, deactivated_by, deactivated_by_id, deleted_at, description, id, is_active, last_modified_by, last_modified_by_id, name, notes, status, updated_at, version
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/migrations/0001_initial.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/tags/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+path component of api base URL http://localhost:8000/api/ is ignored; use FORCE_SCRIPT_NAME instead
+Unauthorized: /api/users/users/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Forbidden: /api/users/users/
+Method Not Allowed: /api/users/profiles/
+Not Found: /api/users/profiles/1/
+Not Found: /api/users//
+Forbidden: /api/users/users/
+Not Found: /api/users/profile/
+Method Not Allowed: /api/users/profiles/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /api/users/profiles/2/
+Forbidden: /api/users/profiles/2/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/profiles/2/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 512, in __get__
+    rel_obj = self.related.get_cached_value(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'profile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: users_userprofile.deleted_at
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/generics.py", line 87, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py", line 47, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 520, in __get__
+    rel_obj = self.get_queryset(instance=instance).get(**filter_args)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
+    self._fetch_all()
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: users_userprofile.deleted_at
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/profiles/2/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 512, in __get__
+    rel_obj = self.related.get_cached_value(instance)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'profile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: users_userprofile.deleted_at
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 65, in update
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/generics.py", line 87, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py", line 47, in get_queryset
+    if user.profile.is_admin:
+       ^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 520, in __get__
+    rel_obj = self.get_queryset(instance=instance).get(**filter_args)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
+    self._fetch_all()
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: users_userprofile.deleted_at
+Watching for file changes with StatReloader
+Unauthorized: /api/users/profiles/2/
+Unauthorized: /api/users/profiles/
+Unauthorized: /api/users/profiles/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Internal Server Error: /api/users/profiles/1/
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 82, in partial_update
+    return self.update(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/mixins.py", line 68, in update
+    self.perform_update(serializer)
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py", line 79, in perform_update
+    raise PermissionError(
+PermissionError: You don't have permission to update this user
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /api/users/profiles/1/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/apps.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Unauthorized: /api/users/profiles/1/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed: /api/users/profiles/1/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed: /api/users/profiles/1/
+Not Found: /api/users/users/
+Not Found: /api/users/users/
+Not Found: /api/users/users/
+Watching for file changes with StatReloader
+Not Found: /api/users/users/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/users/users/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Method Not Allowed: /api/users/users/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid login attempt for user: praccabravo@gmail.com
+Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 151, in post
+    raise ValidationError(
+django.core.exceptions.ValidationError: {'non_field_errors': ['Unable to log in with provided credentials.']}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 197, in post
+    "code": e.code
+            ^^^^^^
+AttributeError: 'ValidationError' object has no attribute 'code'
+Invalid login attempt for user: None
+Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 151, in post
+    raise ValidationError(
+django.core.exceptions.ValidationError: {'usernameOrEmail': ['This field is required.']}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 197, in post
+    "code": e.code
+            ^^^^^^
+AttributeError: 'ValidationError' object has no attribute 'code'
+Watching for file changes with StatReloader
+Invalid login attempt for user: praccabravo@gmail.com
+Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 151, in post
+    raise ValidationError(
+django.core.exceptions.ValidationError: {'non_field_errors': ['Unable to log in with provided credentials.']}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/cyber-security/assets/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py", line 197, in post
+    "code": e.code
+            ^^^^^^
+AttributeError: 'ValidationError' object has no attribute 'code'
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/authentication/views.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid login attempt for user: praccabravo@gmail.com
+Bad Request: /api/auth/login/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Bad Request: /api/users/users/me/
+Bad Request: /api/users/users/me/
+Method Not Allowed: /api/users/users/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/users/users/me/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/users/profile/
+Bad Request: /api/users/profiles/1/
+Watching for file changes with StatReloader
+Unauthorized: /api/users/profiles/1/
+Unauthorized: /api/users/profiles/1/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Bad Request: /api/users/profiles/1/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/users/profiles/1/
+Bad Request: /api/users/profiles/1/
+Bad Request: /api/users/profiles/1/
+/home/cyber-security/Desktop/ATTACHMENT-PROJECT/sph-asset-management-backend/apps/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/users/profiles/1/
+Bad Request: /api/users/profiles/1/
+Bad Request: /api/users/profiles/1/
+Bad Request: /api/users/profiles/me/
+Unauthorized: /api/users/profiles/me/
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
+Watching for file changes with StatReloader
+Auth Metrics: {'active_sessions': 1, 'failed_attempts': 0, 'avg_response_time': 0, 'token_refresh_count': 0, 'concurrent_users': 0}
+Successful login for user: ngemuantony
